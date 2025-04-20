@@ -11,9 +11,12 @@ This Power BI Project provides a comprehensive analysis of sales data, offering 
 •	Sales by category and Sub-Category: Detailed tree map analysis of category and sub-category sales, highlighting top sellers.
 
 # Why This Project Stands Out
-•	Visually Engaging: The dashboard features a combination of diverse visualizations, including bar charts, line charts, donut charts, and tree maps, creating an interactive and insightful analysis.
-•	Business-Driven Insights: Each visual is designed to answer specific business questions, such as identifying high-profit categories and understanding customer purchasing trends.
-•	Strategic Value: The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting, and inventory planning.
+# #	Visually Engaging:
+The dashboard features a combination of diverse visualizations, including bar charts, line charts, donut charts, and tree maps, creating an interactive and insightful analysis.
+# #	Business-Driven Insights:
+Each visual is designed to answer specific business questions, such as identifying high-profit categories and understanding customer purchasing trends.
+# #	Strategic Value:
+The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting, and inventory planning.
 
 # Project Highlights
 Metrics                    Values
@@ -23,9 +26,9 @@ Total Quantity Sold 5615
 
 
 # Repository Structure
-Data: <a href "https://github.com/ankita575vaspalkar/Power-BI-Dashboard-Project/blob/main/Details%20(1).csv"</a>
-Dashboard: Power BI File(.pbix) of the project.
-Images: Contains screenshots of the dashboard for easy preview.
+Data: <a href "https://github.com/ankita575vaspalkar/Power-BI-Dashboard-Project/blob/main/Details%20(1).csv"<br />
+Dashboard:https://github.com/ankita575vaspalkar/Power-BI-Dashboard-Project/blob/main/github_project1.pbix <br />
+Images: "C:\Users\NEXUS\Desktop\github_project\Dashboard_image.png"
 
 
 # Feedback & Collaboration
