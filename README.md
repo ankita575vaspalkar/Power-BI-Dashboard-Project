@@ -28,7 +28,7 @@ Total Quantity Sold 5615
 # Repository Structure
 Data: <a href "https://github.com/ankita575vaspalkar/Power-BI-Dashboard-Project/blob/main/Details%20(1).csv"<br />
 Dashboard:https://github.com/ankita575vaspalkar/Power-BI-Dashboard-Project/blob/main/github_project1.pbix <br />
-Images: https://github.com/ankita575vaspalkar/Power-BI-Dashboard-Project/blob/main/Dashboard_image.png
+Images: <img width="597" alt="Dashboard_image" src="https://github.com/user-attachments/assets/2c9eea08-6cb3-4466-8346-968d83c8cc04" />
 
 
 # Feedback & Collaboration
